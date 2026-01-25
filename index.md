@@ -5,4 +5,5 @@ In this module, we covered Microsoft Word, Powerpoint and Excel. Microsoft Word 
 
 ## Information Literacy
 In this module, we covered how to find academic papers and studies and how to critically judge their quality using modern academic databases such as Scopus and Web of Science. Before I had started this module, I relied mostly on Google Scholar, which has non-peer reviewed studies which can lead to finding biased or incomplete research. The benefit of Scopus is that it only has peer reviewed studies whihch means the information is far more reliable. In Scopus, you can search for studies through key words, authors, affiliation etc. You can use search modifier such as "AND", "OR" and "NOT" to further tighten search results. In the example below, I used the search query "artificial intelligence" OR "AI" AND "food quality" to find peer reviewed studies about how AI has impacted the food industry.
-![](scopusexample.png)You can further narrow down your search through the use of filters such as year, subject area, document type. These features allow for an effective way to find peer reviewed studies
+![](scopusexample.PNG)
+You can further narrow down your search through the use of filters such as year, subject area, document type. These features allow for an effective way to find peer reviewed studies that directly relate to the research topic. 
