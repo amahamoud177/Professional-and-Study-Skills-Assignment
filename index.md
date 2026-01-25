@@ -12,5 +12,8 @@ In this module, we also learnt PICO, a method of structuring academic queries, s
 ![](pico.PNG)
 Although PICO can create strong structured questions, it can also favour experimental or observational studies by nature. PICO does not account for complexities such as feasibility, context, and sociocultural acceptability. For example the query, ""food industry employees" AND "artifical intelligence" AND "decision making"" results in 0 studies on Scopus. Although this may be because AI itself is experimental, it also results in no studies because something like "decision making" is inherently hard to measure. 
 ![](noresults.PNG)
-Evaluating sources for credibility is important to academic research
+Evaluating sources for credibility is important to academic research as it allows for accurate and trustworthy information to be conveyed. Credible sources make sure that the information being conveyed is truthful. One way to check if a source is credible is to check whether it is peer reviewed or not. Peer reviewing is the process in which experts from a field evaluate the quality of a peer's work. This allows for the accuracy of the findings to be assessed so that they don't spread misinformation. Although peer reviewing allows for the accuracy and the bias of the work to be assessed, it is not perfect. Sometimes studies that are inaccurate may pass. In conclusion, evaluating the credibility of sources allows for the correct information to be conveyed and peer reviewing is one method of evaluating the crediblity. Before I started this module, my ability to search for academic was very basic. But after finishing this module, I am able to find, assess and accurately find studies that are relevant and trustworthy to my research topics.
+
+## Coding and Collaboration Platforms
+
 
