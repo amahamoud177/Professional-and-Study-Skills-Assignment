@@ -2,13 +2,14 @@ remote_theme: pages-themes/minimal@v0.2.0
 
 title: "Professional and Study Skills Assignment"
 description: "Documentation of Professional and Study Skills module"
-baseurl: "/Professional-and-Study-Skills"    
+baseurl: "/Professional-and-Study-Skills"   
 url: "https://amahamoud177.github.io"
 
 markdown: kramdown
 kramdown:
   input: GFM
   toc_levels: 2..6
+
 
 plugins:
   - jekyll-remote-theme
