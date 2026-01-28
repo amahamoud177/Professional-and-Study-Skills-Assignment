@@ -1,0 +1,12 @@
+title: Professional and Study Skills Assignment
+description: Documentation of Professional and Study Skills module
+baseurl: ""    
+url: "https://amahamoud177.github.io/Professional-and-Study-Skills-"  
+theme: minima   
+markdown: kramdown
+kramdown:
+  input: GFM      
+  toc_levels: 2..6 
+plugins:
+  - jekyll-feed    
+  - jekyll-seo-tag  
