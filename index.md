@@ -1,7 +1,5 @@
 ---
 title: "Professional and Study Skills Assignment"
-layout: default
-description: "Documentation of Professional and Study Skills module"
 ---
 
 ## Enterprise Authoring and Presentation Tools
