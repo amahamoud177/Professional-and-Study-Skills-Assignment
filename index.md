@@ -1,5 +1,6 @@
 ---
 title: "Professional and Study Skills Assignment"
+layout: default
 ---
 
 ## Enterprise Authoring and Presentation Tools
