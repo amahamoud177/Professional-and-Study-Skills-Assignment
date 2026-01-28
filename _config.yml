@@ -10,5 +10,6 @@ kramdown:
   toc_levels: 2..6
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jekyll-seo-tag 
