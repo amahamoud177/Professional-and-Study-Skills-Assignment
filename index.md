@@ -65,7 +65,7 @@ Wiley Author Services (2013) *What is Peer Review?*, Wiley.com. Available at: ht
 
 Jones, N. (2024) *LibGuides: News and Media: 8. Importance of evaluating and fact checking information*, libguides.aber.ac.uk. Available at: https://libguides.aber.ac.uk/c.php?g=688883&p=4930094. (Accessed: 25 January 2026)
 
-PICO framework limitations (no date). University of North Carolina LibGuides. Available at: https://guides.lib.unc.edu/pico/limitations (Accessed: 25 January 2026).
+*PICO framework limitations (no date).* University of North Carolina LibGuides. Available at: https://guides.lib.unc.edu/pico/limitations (Accessed: 25 January 2026).
 
 Atlassian (2019) *What is Git: become a pro at Git with this guide | Atlassian Git Tutorial, Atlassian*. Available at: https://www.atlassian.com/git/tutorials/what-is-git. (Accessed: 25 January 2026)
 
