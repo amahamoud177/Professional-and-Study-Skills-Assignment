@@ -31,23 +31,39 @@ In this module, we covered AI and the responsible ways to use AI. AI for academi
 ## Reference List
 Cook, S. (2015) *Advantages and Disadvantages of Microsoft Word*. HubPages. Available at: https://discover.hubpages.com/technology/Advantages-of-Microsoft-Word
 (Accessed: 21 January 2026).
+
 Microsoft Word: *Create & Edit Word Docs with Microsoft 365 (no date) www.microsoft.com.* Available at: https://www.microsoft.com/en-gb/microsoft-365/word. (Accessed: 21 January 2026)
+
 Microsoft Excel: *What is Excel? (no date) Microsoft Support.* Available at: https://support.microsoft.com/en-gb/office/what-is-excel-94b00f50-5896-479c-b0c5-ff74603b35a3 (Accessed: 21 January 2026).
+
 *What is PowerPoint? (no date) Microsoft Support*. Available at: https://support.microsoft.com/en-gb/office/what-is-powerpoint-5f9cc860-d199-4d85-ad1b-4b74018acf5b
 (Accessed: 21 January 2026).
+
 *PowerPoint: Create presentations with Microsoft PowerPoint (no date) Microsoft.* Available at: https://www.microsoft.com/en-gb/microsoft-365/powerpoint
  (Accessed: 21 January 2026).
+
 *Microsoft Excel: Create, analyse and visualise data (no date) Microsoft.* Available at: https://www.microsoft.com/en-gb/microsoft-365/excel (Accessed: 21 January 2026).‌
+
 CASP (2025) *How to Use the PICO Framework to Aid Critical Appraisal - CASP*, CASP. Available at: https://casp-uk.net/pico-framework/. (Accessed: 25 January 2026)
+
 Wiley Author Services (2013) *What is Peer Review?*, Wiley.com. Available at: https://authorservices.wiley.com/Reviewers/journal-reviewers/what-is-peer-review/index.html. (Accessed: 25 January 2026)
+
 Jones, N. (2024) *LibGuides: News and Media: 8. Importance of evaluating and fact checking information*, libguides.aber.ac.uk. Available at: https://libguides.aber.ac.uk/c.php?g=688883&p=4930094. (Accessed: 25 January 2026)
+
 Atlassian (2019) *What is Git: become a pro at Git with this guide | Atlassian Git Tutorial, Atlassian*. Available at: https://www.atlassian.com/git/tutorials/what-is-git. (Accessed: 25 January 2026)
+
 Git: *git Documentation (no date)* git-scm.com. Available at: https://git-scm.com/docs/git. (Accessed: 25 January 2026)
+
 *What is GitHub Pages?* - GitHub Docs (2025) GitHub Docs. Available at: https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages. (Accessed: 25 January 2026)
+
 CPD UK (2025) *What is Continuing Professional Development (CPD)?*, Cpduk.co.uk. Available at: https://www.cpduk.co.uk/explained. (Accessed: 26 January 2026)
+
 *Data scientist job profile Prospects.ac.uk (no date).* www.prospects.ac.uk. Available at: https://www.prospects.ac.uk/job-profiles/data-scientist. (Accessed: 26 January 2026)
+
 *BSc (Hons) Applied Data Science Degree | Undergraduate (Places available through Clearing) (2026)* Harper-adams.ac.uk. Harper Adams University. Available at: https://www.harper-adams.ac.uk/courses/station-quarter/201227/applied-data-science (Accessed: 26 January 2026).
+
 Islam, N. (2025) *The Fabrication Problem: How AI Models Generate Fake Citations, URLs, and References,* Medium. Available at: https://medium.com/@nomannayeem/the-fabrication-problem-how-ai-models-generate-fake-citations-urls-and-references-55c052299936. (Accessed: 27 January 2026)
+
 *AI in Data Science: Uses, Examples, and Tools to Consider* (2024) Coursera. Available at: https://www.coursera.org/articles/ai-in-data-science. (Accessed: 27 January 2026)
 
 ‌
