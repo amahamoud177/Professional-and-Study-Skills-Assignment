@@ -1,9 +1,3 @@
----
-title: Professional and Study Skills Assignment
-layout: default
-show-toc: true
----
-
 ## Enterprise Authoring and Presentation Tools
 In this module, we covered Microsoft Word, Powerpoint and Excel. Microsoft Word can be used to create documents (Microsoft, no date), Microsoft Powerpoint can be used to create presentations (Microsoft, no date) and Microsoft Excel is a tool used for data management (Microsoft, no date). Throughout my academic and professional career, I have used these tools in various ways. In school, I have used Word to create academic documents for my subjects and Powerpoint for presentations. Before coming starting this module I was already proficient in Word and Powerpoint. Excel, however, I have always struggled with. I haven't used Excel as extensively compared to Word and Powerpoint. By the end of this module, I am far more proficient at Excel than before the module started. In week 5, we were given a data set that consisted of participants, their age and sex, qualification level, last course of study, their access to a laptop, if they have any special needs and if they enjoy group work. I was able to create a graph that shows the correlation between age and qualification levels. One of the advantages of Excel for data management is that you are able to create graphs in a very simple and intuitive way. All you have to do is right click on the columns you wish to represent the axes and click on the desired graph (Microsoft, no date). The downside to this however is that you are not allowed to create any graphs outside of what Microsoft have offered. This creates rigidity in what someone can create with Excel. 
 
