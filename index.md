@@ -71,7 +71,7 @@ Jones, N. (2024) *LibGuides: News and Media: 8. Importance of evaluating and fac
 
 *PICO framework limitations (no date).* University of North Carolina LibGuides. Available at: https://guides.lib.unc.edu/pico/limitations (Accessed: 25 January 2026).
 
-Atlassian (2019) *What is Git: become a pro at Git with this guide | Atlassian Git Tutorial, Atlassian*. Available at: https://www.atlassian.com/git/tutorials/what-is-git. (Accessed: 25 January 2026)
+Atlassian (2019) *What is Git: become a pro at Git with this guide Atlassian Git Tutorial, Atlassian*. Available at: https://www.atlassian.com/git/tutorials/what-is-git. (Accessed: 25 January 2026)
 
 Git: *git Documentation (no date)* git-scm.com. Available at: https://git-scm.com/docs/git. (Accessed: 25 January 2026)
 
@@ -83,7 +83,7 @@ CPD UK (2025) *What is Continuing Professional Development (CPD)?*, Cpduk.co.uk.
 
 *Data scientist job profile Prospects.ac.uk (no date).* www.prospects.ac.uk. Available at: https://www.prospects.ac.uk/job-profiles/data-scientist. (Accessed: 26 January 2026)
 
-*BSc (Hons) Applied Data Science Degree | Undergraduate (Places available through Clearing) (2026)* Harper-adams.ac.uk. Harper Adams University. Available at: https://www.harper-adams.ac.uk/courses/station-quarter/201227/applied-data-science (Accessed: 26 January 2026).
+*BSc (Hons) Applied Data Science Degree Undergraduate (Places available through Clearing) (2026)* Harper-adams.ac.uk. Harper Adams University. Available at: https://www.harper-adams.ac.uk/courses/station-quarter/201227/applied-data-science (Accessed: 26 January 2026).
 
 Harper Adams University (2025) Working well with AI: University guidance for students on taught courses. 2025/26 academic session. Available at: https://hub.harper-adams.ac.uk/mod/resource/view.php?id=645550 (Accessed: 27 January 2026).
 
